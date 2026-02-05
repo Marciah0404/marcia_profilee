@@ -38,7 +38,7 @@ export const PROJECTS: Project[] = [
     id: 'content-gen',
     title: 'Custom Content Generator',
     description: 'Advanced LLM implementation for generating architecture and design-focused content.',
-    url: 'https://archvision-roan.vercel.app/',
+    url: 'https://musedivas.netlify.app/',
     tags: ['Generative AI', 'React', 'LLM'],
     icon: 'Wand2',
     category: 'AI'
