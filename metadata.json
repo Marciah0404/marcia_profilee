@@ -1,0 +1,8 @@
+{
+  "name": "Marciah Malangwane AI Portfolio",
+  "description": "Professional AI/ML and Full-Stack Developer portfolio for Marciah Malangwane featuring bootcamp projects, technical skills, and interactive resume.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
